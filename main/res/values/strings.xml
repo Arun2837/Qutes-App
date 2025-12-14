@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">QuotesApp</string>
+    <string name="main_text">QUOTIFY</string>
+    <string name="image_desc">Images</string>
+    <string name="quote_title">Each chapter of the book with an inspirational quote</string>
+    <string name="quote_author">Arun Singh</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+</resources>
